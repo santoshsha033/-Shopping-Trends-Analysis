@@ -1,0 +1,2450 @@
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+ith a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+ith a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+ith a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created 
+file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:
+When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding process
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+After decoding, the server sends a JSON response containing the download link (using /download/:filename route).
+/download/:filename route:
+This route captures the filename from the URL, constructs the full path using path.join(), and serves the file using res.download().
+Client-Side:When the client receives the download link in the response, they can either click it directly or make a GET request to /download/compressed123456.txt (as per the filename).
+This will allow users to download the newly created file after the Huffman decoding proces
+The decoded file is saved with a dynamic name generated during the process.
+/upload route response:
+
